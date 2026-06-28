@@ -1,1 +1,1 @@
-const TOKEN = "HI!";
+const NAME = "Bot";
