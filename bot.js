@@ -1,5 +1,5 @@
 const NAME = "Bot";
-let name = 1;
+let name = 11;
 function Foo() {
   return true;
 }
